@@ -1,0 +1,160 @@
+2018-Feb-25 17:19:51 PM [restartedMain] DEBUG application.config.WebConfig - running
+2018-Feb-25 17:20:43 PM [restartedMain] DEBUG application.config.WebConfig - running
+2018-Feb-25 17:34:24 PM [restartedMain] DEBUG application.config.WebConfig - running
+2018-Feb-25 20:57:09 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 21:02:47 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 21:06:27 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 21:09:17 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 21:09:55 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 21:10:02 PM [http-nio-8080-exec-3] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 21:20:46 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 21:22:43 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 21:22:52 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Thêm list sản phẩm thành công-------------
+2018-Feb-25 21:49:42 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 21:49:49 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 21:49:55 PM [http-nio-8080-exec-3] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 21:49:55 PM [http-nio-8080-exec-4] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 22:45:40 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 22:46:09 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 22:46:18 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 22:47:43 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 22:47:49 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 22:52:30 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 22:52:39 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 22:52:41 PM [http-nio-8080-exec-3] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 22:52:42 PM [http-nio-8080-exec-8] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 22:52:42 PM [http-nio-8080-exec-5] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 22:52:56 PM [http-nio-8080-exec-2] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 22:53:59 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 22:54:07 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 22:54:07 PM [http-nio-8080-exec-3] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 22:54:12 PM [http-nio-8080-exec-4] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 22:54:13 PM [http-nio-8080-exec-7] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 22:56:37 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 22:57:43 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 22:57:49 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 22:59:57 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 23:00:03 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:01:30 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 23:01:41 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:03:03 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 23:03:11 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:04:43 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 23:04:53 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:05:55 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 23:06:01 PM [http-nio-8080-exec-2] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:07:27 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 23:07:52 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:09:59 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 23:10:07 PM [http-nio-8080-exec-2] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:14:33 PM [http-nio-8080-exec-5] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:14:34 PM [http-nio-8080-exec-7] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:14:34 PM [http-nio-8080-exec-10] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:14:49 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:24:01 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 23:24:10 PM [http-nio-8080-exec-2] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:24:57 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 23:25:13 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:26:48 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 23:26:58 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:27:43 PM [http-nio-8080-exec-4] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:32:00 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 23:32:32 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:36:36 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 23:36:47 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:40:26 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 23:40:33 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-25 23:42:40 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-25 23:43:13 PM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 00:37:16 AM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-26 00:38:11 AM [http-nio-8080-exec-2] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 00:39:04 AM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-26 00:39:15 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 00:40:55 AM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-26 00:41:03 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 00:44:51 AM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-26 00:44:59 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 00:54:38 AM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-26 00:54:45 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 00:54:53 AM [http-nio-8080-exec-3] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 01:12:29 AM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-26 01:12:47 AM [http-nio-8080-exec-3] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 01:15:41 AM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-26 01:15:57 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 01:16:31 AM [http-nio-8080-exec-4] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 01:16:42 AM [http-nio-8080-exec-7] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 01:17:46 AM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-26 01:17:53 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 01:26:03 AM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-26 01:26:32 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 01:27:23 AM [http-nio-8080-exec-6] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 01:27:46 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 01:30:57 AM [http-nio-8080-exec-9] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 01:30:58 AM [http-nio-8080-exec-7] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 01:32:56 AM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-26 01:33:31 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-26 01:42:53 AM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-26 01:43:12 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 01:37:44 AM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-27 01:38:05 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 01:52:42 AM [http-nio-8080-exec-8] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 01:53:21 AM [http-nio-8080-exec-3] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 01:54:02 AM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-27 01:54:20 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 01:55:33 AM [http-nio-8080-exec-8] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 01:57:41 AM [http-nio-8080-exec-5] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 01:58:39 AM [http-nio-8080-exec-9] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 01:58:50 AM [http-nio-8080-exec-7] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:00:12 AM [http-nio-8080-exec-5] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:00:22 AM [http-nio-8080-exec-10] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:00:57 AM [http-nio-8080-exec-7] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:02:32 AM [http-nio-8080-exec-9] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:02:45 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:03:08 AM [http-nio-8080-exec-7] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:03:40 AM [http-nio-8080-exec-5] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:04:07 AM [http-nio-8080-exec-4] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:04:36 AM [http-nio-8080-exec-7] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:05:39 AM [http-nio-8080-exec-6] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:05:59 AM [http-nio-8080-exec-3] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:06:29 AM [http-nio-8080-exec-5] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:06:43 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:07:07 AM [http-nio-8080-exec-7] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:07:12 AM [http-nio-8080-exec-3] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:07:17 AM [http-nio-8080-exec-5] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:07:34 AM [http-nio-8080-exec-6] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:08:08 AM [http-nio-8080-exec-3] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:08:28 AM [http-nio-8080-exec-5] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:08:42 AM [http-nio-8080-exec-7] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:09:08 AM [http-nio-8080-exec-3] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:09:23 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:09:33 AM [http-nio-8080-exec-2] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:09:37 AM [http-nio-8080-exec-8] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:09:38 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:09:54 AM [http-nio-8080-exec-2] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:10:34 AM [http-nio-8080-exec-3] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:10:48 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:11:01 AM [http-nio-8080-exec-9] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:11:27 AM [http-nio-8080-exec-7] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:11:42 AM [http-nio-8080-exec-2] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:12:00 AM [http-nio-8080-exec-9] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:12:01 AM [http-nio-8080-exec-3] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:12:34 AM [http-nio-8080-exec-6] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:13:08 AM [http-nio-8080-exec-4] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:13:09 AM [http-nio-8080-exec-2] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:13:20 AM [http-nio-8080-exec-6] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:13:59 AM [http-nio-8080-exec-10] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:15:12 AM [http-nio-8080-exec-6] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:15:44 AM [http-nio-8080-exec-4] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:15:54 AM [http-nio-8080-exec-8] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:16:28 AM [http-nio-8080-exec-9] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:17:08 AM [http-nio-8080-exec-8] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:17:28 AM [http-nio-8080-exec-9] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:17:39 AM [http-nio-8080-exec-8] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:18:19 AM [http-nio-8080-exec-9] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:18:47 AM [http-nio-8080-exec-8] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:18:57 AM [http-nio-8080-exec-9] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:19:57 AM [http-nio-8080-exec-8] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:21:56 AM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-27 02:22:12 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Feb-27 02:23:33 AM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Feb-27 02:23:41 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
