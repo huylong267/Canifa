@@ -158,3 +158,34 @@
 2018-Feb-27 02:22:12 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
 2018-Feb-27 02:23:33 AM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
 2018-Feb-27 02:23:41 AM [http-nio-8080-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Mar-02 14:21:41 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:22:51 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:26:10 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:26:49 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:27:13 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:29:11 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:30:19 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:32:03 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:34:59 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:35:34 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:35:54 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:38:01 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:41:40 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:46:03 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:47:35 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:49:47 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:53:31 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:56:55 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:58:52 PM [restartedMain] DEBUG application.config.WebConfig - ------------running------------
+2018-Mar-02 14:59:12 PM [http-nio-80-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Mar-02 15:02:02 PM [http-nio-80-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Mar-02 15:03:53 PM [http-nio-80-exec-8] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Mar-02 15:03:54 PM [http-nio-80-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Mar-02 15:03:54 PM [http-nio-80-exec-7] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Mar-02 15:04:09 PM [http-nio-80-exec-3] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Mar-02 15:04:09 PM [http-nio-80-exec-6] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Mar-02 15:04:09 PM [http-nio-80-exec-8] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Mar-02 15:05:28 PM [http-nio-80-exec-10] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Mar-02 15:06:27 PM [http-nio-80-exec-1] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Mar-02 15:07:49 PM [http-nio-80-exec-5] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------
+2018-Mar-02 15:27:43 PM [http-nio-80-exec-7] DEBUG application.controller.ProductController - ------------Đã có sản phẩm-------------

@@ -7,6 +7,7 @@
 	<!--<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">-->
 	<link rel="stylesheet" th:href="@{/webjars/bootstrap/3.3.7/css/bootstrap.min.css}">
 	<link rel="stylesheet" th:href="@{/webjars/bootstrap/3.3.7/css/bootstrap-theme.min.css}">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" th:href="@{css/canifa.css}">
 
 
@@ -64,8 +65,8 @@
 															th:text="${menuItem.getText()}"></a>
 									<ul class="dropdown">
 										<div class="row" >
-											<div class="dropdown-inner" th:each="child:${menuItem.getChild()}" th:classappend="${child.getChild().size()==0}?col-md-12:col-md-4">
-												<li class="" ><a th:href="${child.getLink()}" th:text="${child.getText()}"></a>
+											<div class="dropdown-inner" th:each="child:${menuItem.getChild()}" >
+												<li class="" th:classappend="${child.getChild().size()==0}?col-md-12:col-md-4"><a th:href="${child.getLink()}" th:text="${child.getText()}"></a>
 													<ul>
 														<div class="col-md-6 dropdown-inner-content" th:each="children:${child.getChild()}" >
 															<li class="nav-item">
@@ -230,6 +231,57 @@
 								<li class="top-footer-list-li" id="khaosat-footer"><a href="">KHẢO SÁT Ý KIẾN KHÁCH HÀNG</a></li>
 								<li class="top-footer-list-li" id="dieukhoan-footer"><a href="">ĐIỀU KHOẢN&ĐIỀU KIỆN GIAO DỊCH</a></li>
 							</ul>
+						</div>
+					</div>
+					<div class="col-md-3 col-xs-6">
+						<div class="top-footer-list">
+							<ul class="top-footer-list-ul"><p>Thương Hiệu</p>
+								<li class="top-footer-list-item"><a href="">Giới thiệu</a></li>
+								<li class="top-footer-list-item"><a href="">Blog</a></li>
+								<li class="top-footer-list-item"><a href="">Tuyển dụng</a></li>
+								<li class="top-footer-list-item"><a href="">Với cộng đồng</a></li>
+								<li class="top-footer-list-item"><a href="">Hệ thống cửa hàng</a></li>
+								<li class="top-footer-list-item"><a href="">Liên Hệ</a></li>
+							</ul>
+						</div>
+					</div>
+
+					<div class="col-md-3 col-xs-6">
+						<div class="top-footer-list">
+							<ul class="top-footer-list-ul"><p>Hỗ trơ</p>
+								<li class="top-footer-list-item"><a href="">FAQs-Hỏi đáp</a></li>
+								<li class="top-footer-list-item"><a href="">Chính sách vận chuyển</a></li>
+								<li class="top-footer-list-item"><a href="">Hướng dẫn chọn kích cỡ</a></li>
+								<li class="top-footer-list-item"><a href="">Kiểm tra đơn hàng</a></li>
+								<li class="top-footer-list-item"><a href="">Qui định đổi hàng</a></li>
+								<li class="top-footer-list-item"><a href="">Yêu cầu đổi trả</a></li>
+								<li class="top-footer-list-item"><a href="">Tra cứu điểm thẻ</a></li>
+								<li class="top-footer-list-item"><a href="">Chính sách KH thân thiết</a></li>
+							</ul>
+						</div>
+					</div>
+
+					<div class="col-md-3 col-xs-6">
+						<div class="top-footer-list">
+							<div class="top-footer-list-ul">
+								<p>Đăng kí nhận tin</p>
+								<form class="navbar-form navbar" role="search">
+									<div class="form-group">
+										<input type="text" class="form-control" placeholder="Email">
+									</div>
+									<button type="submit" class="btn btn-default">Gửi</button>
+								</form>
+								<p>Kết nối</p>
+								<a class="btn btn-social-icon btn-facebook">
+									<span class="fa fa-facebook"></span>
+								</a>
+								<a class="btn btn-social-icon btn-instagram">
+									<span class="fa fa-instagram"></span>
+								</a>
+								<a class="btn btn-social-icon btn-youtube">
+									<span class="fa fa-youtube"></span>
+								</a>
+							</div>
 						</div>
 					</div>
 				</div>

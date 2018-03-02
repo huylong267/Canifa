@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Canifa.iml" filepath="$PROJECT_DIR$/Canifa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Canifa_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Canifa_main.iml" group="Canifa" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Canifa_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Canifa_test.iml" group="Canifa" />
+    </modules>
+  </component>
+</project>

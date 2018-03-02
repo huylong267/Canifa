@@ -413,3 +413,150 @@
 	background-position-x:0px;
 	background-position-y:0px;
 }
+
+.top-footer{
+	padding: 20px 0px;
+}
+
+.top-footer-inner{
+
+	padding: 20px 0px;
+	border-top: 1px solid black;
+}
+
+.top-footer-list ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	position: relative;
+}
+
+.top-footer-list-li{
+	margin: 10px 0px;
+	padding:8px;
+	border-bottom: 1px solid gray;
+	text-align: center;
+}
+.top-footer-list-li a{
+	color: black;
+	font-weight: bold;
+
+}
+
+.top-footer-list-li:hover a{
+	text-decoration: none;
+	color: red;
+}
+
+#tim-kiem-footer::before{
+	position: absolute;
+	content: '';
+	width: 28px;
+	height: 30px;
+	background: url("https://canifa.com/skin/frontend/canifa/default/images/img-general.png");
+	top: 0px;
+	right:260px;
+	background-position-x:-175px;
+	background-position-y:-1px;
+}
+
+#tuyen-dung-footer::before{
+	position: absolute;
+	content: '';
+	width: 28px;
+	height: 30px;
+	background: url("https://canifa.com/skin/frontend/canifa/default/images/img-general.png");
+	top: 50px;
+	right:260px;
+	background-position-x:-175px;
+	background-position-y:-54px;
+}
+
+#blog-footer::before{
+	position: absolute;
+	content: '';
+	width: 28px;
+	height: 30px;
+	background: url("https://canifa.com/skin/frontend/canifa/default/images/img-general.png");
+	top: 93px;
+	right:260px;
+	background-position-x:-173px;
+	background-position-y:-100px;
+}
+
+#khaosat-footer::before{
+	position: absolute;
+	content: '';
+	width: 28px;
+	height: 30px;
+	background: url("https://canifa.com/skin/frontend/canifa/default/images/img-general.png");
+	top: 140px;
+	right:263px;
+	background-position-x:-173px;
+	background-position-y:-160px;
+}
+#dieukhoan-footer::before{
+	position: absolute;
+	content: '';
+	width: 20px;
+	height: 30px;
+	background: url("https://canifa.com/skin/frontend/canifa/default/images/img-general.png");
+	top: 200px;
+	right:275px;
+	background-position-x:0px;
+	background-position-y:0px;
+}
+
+.top-footer-list-ul p{
+	font-weight: bold;
+	font-size: 16pt;
+	margin: 15px 0px;
+	color: black;
+}
+
+.top-footer-list-item a{
+	color: black;
+	font-size: 12pt;
+}
+.top-footer-list-item{
+	padding: 5px 0px;
+}
+.top-footer-list-item:hover a{
+	text-decoration: none;
+	color: red;
+}
+
+/*social footer*/
+.fa {
+	padding: 5px;
+	font-size: 20px;
+	width: 30px;
+	text-align: center;
+	text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+	opacity: 0.7;
+	background: red
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+	background: grey;
+	color: white;
+}
+
+/* Twitter */
+.fa-instagram {
+	background: grey;
+	color: white;
+}
+
+.fa-youtube {
+	background:grey;
+	color: white;
+}
+

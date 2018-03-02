@@ -1,0 +1,415 @@
+.wrapper{
+	margin: 0px auto;
+	max-width: 1280px;
+}
+.top-header{
+	border-bottom:1px solid grey;
+	padding: 5px 0px;
+	margin: 0px;
+
+}
+.clearfix::after{
+	content: '';
+	display: table;
+	clear: both;
+}
+
+.top-right-header-text{
+	float: right;
+	width: 20%;
+	max-width:150px;
+	text-align: right;
+}
+.top-right-header{
+	position: relative;
+}
+
+
+.top-right-header-text:first-child a {
+	border-left:1px solid grey;
+	padding-left: 20px;
+
+
+}
+.top-left-header a{
+	padding-left: 15px;
+}
+
+.top-left-header::before {
+	position: absolute;
+	content: '';
+	width:33px;
+	height: 30px;
+	background-image: url("https://canifa.com/skin/frontend/canifa/default/images/img-general.png");
+	top: 3px;
+	left: -5px;
+}
+
+#ho-tro::before {
+	position: absolute;
+	content: '';
+	width:20px;
+	height:20px;
+	background-image: url("https://canifa.com/skin/frontend/canifa/default/images/img-general.png");
+	top: 3px;
+	right: 150px;
+	background-position-x: 0px;
+	background-position-y: -134px;
+
+}
+
+
+#kh-thanthiet::before {
+	position: absolute;
+	content: '';
+	width:25px;
+	height:20px;
+	background-image: url("https://canifa.com/skin/frontend/canifa/default/images/img-general.png");
+	top: 3px;
+	right:425px;
+	background-position-x: 0px;
+	background-position-y: -103px;
+}
+
+#tuyen-dung::before{
+	position: absolute;
+	content: '';
+	width:25px;
+	height:20px;
+	background-image: url("https://canifa.com/skin/frontend/canifa/default/images/img-general.png");
+	top: 3px;
+	right:300px;
+	background-position-x: 0px;
+	background-position-y: -68px;
+}
+
+#cua-hang::before{
+	position: absolute;
+	content: '';
+	width: 25px;
+	height: 20px;
+	background: url("https://canifa.com/skin/frontend/canifa/default/images/img-general.png");
+	top: 0px;
+	right:520px;
+	background-position-x:0px;
+	background-position-y:-35px;
+}
+#tai-khoan{
+	width: 87px;
+}
+
+.top-left-header a{
+	color: black;
+
+}
+.top-right-header a{
+	color: black;
+}
+.top-left-header:hover a{
+	color: red;
+	text-decoration: none;
+}
+.top-right-header a:hover {
+	color: red;
+	text-decoration: none;
+}
+
+/*navbar menu hr*/
+
+.bottom-header{
+	margin:5px -15px;
+	position: relative;
+}
+.menu-hr-inner ul{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+.menu-hr-item{
+	margin:5px 0px;
+	display: inline-block;
+	border-right:1px solid grey;
+}
+.menu-hr-item a{
+	display: block;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	padding:35px 30px;
+
+}
+
+.menu-hr-item:first-child a{
+	border: none;
+}
+
+#canifa-menu a{
+	margin: 0px;
+	padding: 0px;
+}
+.menu-search{
+	padding: 20px 0px;
+	float: right;
+	margin-right:-15px;
+}
+
+#input-search{
+	width: 340px;
+
+}
+
+#btn-search{
+	margin-bottom: 5px;
+	width: 40px;
+	height: 40px;
+	border: none;
+	background: url('https://canifa.com/skin/frontend/canifa/default/images/cart.png');
+}
+
+/*discount*/
+.discount{
+	position: relative;
+	background: #2b395c;
+	width: 100%;
+	height:50px;
+
+}
+
+.discount-text{
+	padding-top: 20px 0px;
+	position: absolute;
+	top: 15px;
+	left: 350px;
+	height: 50px;
+	color: white;
+	font-weight: bold;
+}
+
+.discount-btn{
+	position: absolute;
+	left: 700px;
+	top: 12px;
+}
+
+/*breadcrumb*/
+
+#breadcrumb-id{
+	margin:0px -15px;
+	background: none;
+}
+
+#breadcrumb-id li a{
+	font-size: 9pt;
+	color:black;
+
+}
+
+#breadcrumb-id li{
+	font-size: 9pt;
+}
+
+.dropdown{
+	display: none;
+	position: absolute;
+	width: 1280px;
+	border: 1px solid grey;
+	background: white;
+	left: 15px;
+
+}
+
+.menu-hr-item:hover .dropdown{
+	display: block;
+	z-index: 1;
+}
+
+.dropdown-inner{
+	border-right: 1px solid grey;
+	margin: 5px 0px;
+
+}
+
+.dropdown-inner>li>a{
+	padding: 10px;
+	text-align: center;
+}
+
+.dropdown-inner:last-child{
+	border: none;
+}
+
+.dropdown-inner-content li a{
+	color: grey;
+}
+.dropdown-inner-content li a{
+	padding:10px 0px;
+	margin: 10px 5px;
+	text-align: center;
+}
+
+/*menu vt*/
+
+.menu-vt-inner-title a{
+	color: black;
+	font-weight: bold;
+	font-size: 15pt;
+
+}
+
+.menu-vt-inner-title{
+	margin: 10px 20px;
+	border-bottom: 1px solid black;
+}
+
+.menu-vt-inner-content li{
+	list-style: none;
+	margin: 10px;
+	font-weight: bold;
+
+}
+.menu-vt-inner-content li a{
+	color: black;
+}
+
+.menu-vt-inner-content-child li{
+	font-weight: normal;
+	margin: 10px -15px;
+
+}
+.menu-vt-inner-content-child li a{
+	color: gray;
+}
+
+
+.menu-vt-inner-content-child li:hover a{
+	color: red;
+	text-decoration: none;
+}
+
+.menu-vt-inner-content-li a:hover{
+	color: red;
+	text-decoration: none;
+}
+
+.menu-vt-inner-title:hover a{
+	color: red;
+	text-decoration: none;
+}
+
+/*content-right*/
+.section-title{
+	padding: 20px 350px;
+	font-size: 16pt;
+	font-weight: bold;
+}
+
+.banner{
+	margin: -15px;
+
+}
+.banner img{
+	width:100%;
+	height:100%;
+}
+
+
+.section-product{
+	padding: 10px 0px;
+}
+
+/*footer*/
+.top-footer{
+	padding: 20px 0px;
+}
+
+.top-footer-inner{
+
+	padding: 20px 0px;
+	border-top: 1px solid black;
+}
+
+.top-footer-list ul{
+	list-style-type: none;
+	margin: 0px;
+	padding: 0px;
+	position: relative;
+}
+
+.top-footer-list-li{
+	margin: 10px 0px;
+	padding:8px;
+	border-bottom: 1px solid gray;
+	text-align: center;
+}
+.top-footer-list-li a{
+	color: black;
+	font-weight: bold;
+
+}
+
+.top-footer-list-li:hover a{
+	text-decoration: none;
+	color: red;
+}
+
+#tim-kiem-footer::before{
+	position: absolute;
+	content: '';
+	width: 28px;
+	height: 30px;
+	background: url("https://canifa.com/skin/frontend/canifa/default/images/img-general.png");
+	top: 0px;
+	right:260px;
+	background-position-x:-175px;
+	background-position-y:-1px;
+}
+
+#tuyen-dung-footer::before{
+	position: absolute;
+	content: '';
+	width: 28px;
+	height: 30px;
+	background: url("https://canifa.com/skin/frontend/canifa/default/images/img-general.png");
+	top: 50px;
+	right:260px;
+	background-position-x:-175px;
+	background-position-y:-54px;
+}
+
+#blog-footer::before{
+	position: absolute;
+	content: '';
+	width: 28px;
+	height: 30px;
+	background: url("https://canifa.com/skin/frontend/canifa/default/images/img-general.png");
+	top: 93px;
+	right:260px;
+	background-position-x:-173px;
+	background-position-y:-100px;
+}
+
+#khaosat-footer::before{
+	position: absolute;
+	content: '';
+	width: 28px;
+	height: 30px;
+	background: url("https://canifa.com/skin/frontend/canifa/default/images/img-general.png");
+	top: 140px;
+	right:263px;
+	background-position-x:-173px;
+	background-position-y:-160px;
+}
+#dieukhoan-footer::before{
+	position: absolute;
+	content: '';
+	width: 20px;
+	height: 30px;
+	background: url("https://canifa.com/skin/frontend/canifa/default/images/img-general.png");
+	top: 200px;
+	right:275px;
+	background-position-x:0px;
+	background-position-y:0px;
+}
